@@ -40,3 +40,5 @@ Along with the four common roles of the agile team, there are also three support
 
 ## Here is a diagram showing how a small agile team is layed out:
 ![Image of small agile team](http://www.ambysoft.com/essays/agileRoles.html)
+
+Citation: http://www.ambysoft.com/essays/agileRoles.html
